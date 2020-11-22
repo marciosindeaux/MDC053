@@ -1,3 +1,5 @@
+--Tipo Serial: https://www.tutorialspoint.com/postgresql/postgresql_using_autoincrement.htm
+
 create table curso (
 	id_curso serial primary key,
 	nome_curso varchar(100) not null,
