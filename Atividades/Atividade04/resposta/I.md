@@ -1,4 +1,4 @@
-
+![](https://github.com/marciosindeaux/MDC053/blob/master/Atividades/Atividade04/resposta/Captura%20de%20tela%202020-12-01%20134008.jpg?raw=true)
 
 ```sql
 create table Departamento (
